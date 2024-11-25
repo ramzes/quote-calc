@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: "/api"
+  port: 2137
+
+vendor:
+  file-path: ${VENDOR_FILE_PATH:}
+  file-name: ${VENDOR_FILE_NAME:providers.json}
