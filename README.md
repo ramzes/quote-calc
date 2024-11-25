@@ -20,7 +20,7 @@ This is Java SpringBoot application, written in two hours and test myself how mu
 # What is missing
 
 - Definitely more integration tests
-- Docker plugin to create image to shit is easily
+- Docker plugin to create image to ship is easily
 - Swagger/openApi
 
 # Api
